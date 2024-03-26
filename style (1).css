@@ -1,0 +1,13 @@
+.container {
+    display: inline flex;
+    border: 10px solid black;
+    padding: 50px;
+
+}
+
+.item {
+    width: 250px;
+    height: 250px;
+    background-color: lightblue;
+    margin: 25px;
+}
